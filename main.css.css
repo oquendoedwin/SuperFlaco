@@ -1,0 +1,39 @@
+/*Dev - Edwin*/
+
+body{
+    font-family: 'Ralewy';
+    background-color: bisque;
+
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+#left{
+    clear:both;
+}
+/*para remover los bullets a la lista */
+
+
+
+ul li {
+list-style:none;
+    margin-top:7px;
+    margin-bottom:7px;
+    display:inline-block;
+    padding:5px;
+    
+        
+}
+div
+{
+    /********************
+    Pagina Porfolio
+    *********************/
+    border-style:ridge;
+    padding:30px;
+    background-color:floralwhite
+        .img-resp{border-bottom-left-radius: }
+}
